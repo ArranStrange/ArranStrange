@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArranStrange
 - 👀 I’m passionate about crafting a seamless and harmonious relationship between text, images, and white space to create beautiful web
-- 🌱 I’m currently learning SASS, Tailwind, Typescript & React
+- 🌱 I’m currently learning Typescript & React
 - 📫 How to reach me IG: @arranstrange
 
 <!---
