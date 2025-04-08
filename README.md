@@ -36,7 +36,7 @@
 🍽️ Hospitality Professional Turned **Web Developer** </br>
 🏡 Full-time Father & Husband</br> 
 📉 ~~Failed~~ Former  Entrepreneur </br>
-📸 Semi-Proffesional Photographer </br>
+📸 Semi-professional Photographer </br>
 🪕 Music Creator & Enthusiast </br>
 🧘 Attempting To Be Zen </br>
 </br>
