@@ -41,28 +41,28 @@
 🧘 Attempting To Be Zen </br>
 </br>
 
-  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
-  ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
-  ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=green)
-  ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blue)
+  ![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
+  ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
+  ![JAVASCRIPT](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=red)
+  ![TYPESCRIPT](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=green)
+  ![REACT](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blue)
 
-  ![UI BootStrap](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindCSS&logoColor=white&color=lightblue)
-  ![UI Library: MUI](https://img.shields.io/badge/UI-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=007FFF)
-![Animation: Framer Motion](https://img.shields.io/badge/Animation-Framer_Motion-informational?style=flat&logo=framer&logoColor=white&color=0055FF)
-![Animation: GSAP](https://img.shields.io/badge/Animation-GSAP-informational?style=flat&logo=greensock&logoColor=white&color=88CE02)
+  ![TAILWIND](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindCSS&logoColor=white&color=lightblue)
+  ![MATERIAL UI](https://img.shields.io/badge/UI-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=007FFF)
+![FRAMER MOTION](https://img.shields.io/badge/Animation-Framer_Motion-informational?style=flat&logo=framer&logoColor=white&color=0055FF)
+![GSAP](https://img.shields.io/badge/Animation-GSAP-informational?style=flat&logo=greensock&logoColor=white&color=88CE02)
 
-  ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=green)
-  ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
-  ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=darkblue)
-  ![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=orange)
+  ![NODE JS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=green)
+  ![EXPRESS](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=brightgreen)
+  ![MONGO DB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=darkblue)
+  ![FIREBASE](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=orange)
   
-  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+  ![VS CODE](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 
-![Editor: Photoshop](https://img.shields.io/badge/Editor-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=31A8FF)
-![Tool: Lightroom](https://img.shields.io/badge/Edit-Lightroom-informational?style=flat&logo=adobelightroom&logoColor=white&color=31A8FF)
-![Tool: Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
-![Tool: Illustrator](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00)
+![PHOTOSHOP](https://img.shields.io/badge/Editor-Photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=31A8FF)
+![LIGHTROOM](https://img.shields.io/badge/Edit-Lightroom-informational?style=flat&logo=adobelightroom&logoColor=white&color=31A8FF)
+![FIGMA](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E)
+![ILLUSTRATOR](https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00)
   </div>
 
 
